@@ -1,0 +1,204 @@
+# Variable key
+
+- FIPStxt
+  - State-County FIPS Code
+- State
+  - State Abbreviation
+- Area_Name
+  - Area name
+- Rural-urban_Continuum Code_2003
+  - [Rural-urban Continuum Code, 2003](http://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
+- Urban_Influence_Code_2003
+  - [Urban Influence Code, 2003](http://www.ers.usda.gov/data-products/urban-influence-codes.aspx)
+- Rural-urban_Continuum Code_2013
+  - [Rural-urban Continuum Code, 2013](http://www.ers.usda.gov/data-products/rural-urban-continuum-codes.aspx)
+- Urban_Influence_Code_2013
+  - [Urban Influence Code, 2013](http://www.ers.usda.gov/data-products/urban-influence-codes.aspx)
+- Economic_typology_2015
+  - [County economic types, 2015 edition](http://www.ers.usda.gov/data-products/county-typology-codes/descriptions-and-maps.aspx)
+- CENSUS_2010_POP
+  - 4/1/2010 resident Census 2010 population
+- ESTIMATES_BASE_2010
+  - 4/1/2010 resident total population estimates base
+- POP_ESTIMATE_2010
+  - 7/1/2010 resident total population estimate
+- POP_ESTIMATE_2011
+  - 7/1/2011 resident total population estimate
+- POP_ESTIMATE_2012
+  - 7/1/2012 resident total population estimate
+- POP_ESTIMATE_2013
+  - 7/1/2013 resident total population estimate
+- POP_ESTIMATE_2014
+  - 7/1/2014 resident total population estimate
+- POP_ESTIMATE_2015
+  - 7/1/2015 resident total population estimate
+- N_POP_CHG_2010
+  - Numeric Change in resident total population 4/1/2010 to 7/1/2010
+- N_POP_CHG_2011
+  - Numeric Change in resident total population 7/1/2010 to 7/1/2011
+- N_POP_CHG_2012
+  - Numeric Change in resident total population 7/1/2011 to 7/1/2012
+- N_POP_CHG_2013
+  - Numeric Change in resident total population 7/1/2012 to 7/1/2013
+- N_POP_CHG_2014
+  - Numeric Change in resident total population 7/1/2013 to 7/1/2014
+- N_POP_CHG_2015
+  - Numeric Change in resident total population 7/1/2014 to 7/1/2015
+- Births_2010
+  - Births in period 4/1/2010 to 6/30/2010
+- Births_2011
+  - Births in period 7/1/2010 to 6/30/2011
+- Births_2012
+  - Births in period 7/1/2011 to 6/30/2012
+- Births_2013
+  - Births in period 7/1/2012 to 6/30/2013
+- Births_2014
+  - Births in period 7/1/2013 to 6/30/2014
+- Births_2015
+  - Births in period 7/1/2014 to 6/30/2015
+- Deaths_2010
+  - Deaths in period 4/1/2010 to 6/30/2010
+- Deaths_2011
+  - Deaths in period 7/1/2010 to 6/30/2011
+- Deaths_2012
+  - Deaths in period 7/1/2011 to 6/30/2012
+- Deaths_2013
+  - Deaths in period 7/1/2012 to 6/30/2013
+- Deaths_2014
+  - Deaths in period 7/1/2013 to 6/30/2014
+- Deaths_2015
+  - Deaths in period 7/1/2014 to 6/30/2015
+- NATURAL_INC_2010
+  - Natural increase in period 4/1/2010 to 6/30/2010
+- NATURAL_INC_2011
+  - Natural increase in period 7/1/2010 to 6/30/2011
+- NATURAL_INC_2012
+  - Natural increase in period 7/1/2011 to 6/30/2012
+- NATURAL_INC_2013
+  - Natural increase in period 7/1/2012 to 6/30/2013
+- NATURAL_INC_2014
+  - Natural increase in period 7/1/2013 to 6/30/2014
+- NATURAL_INC_2015
+  - Natural increase in period 7/1/2014 to 6/30/2015
+- INTERNATIONAL_MIG_2010
+  - Net international migration in period 4/1/2010 to 6/30/2010
+- INTERNATIONAL_MIG_2011
+  - Net international migration in period 7/1/2010 to 6/30/2011
+- INTERNATIONAL_MIG_2012
+  - Net international migration in period 7/1/2011 to 6/30/2012
+- INTERNATIONAL_MIG_2013
+  - Net international migration in period 7/1/2012 to 6/30/2013
+- INTERNATIONAL_MIG_2014
+  - Net international migration in period 7/1/2013 to 6/30/2014
+- INTERNATIONAL_MIG_2015
+  - Net international migration in period 7/1/2014 to 6/30/2015
+- DOMESTIC_MIG_2010
+  - Net domestic migration in period 4/1/2010 to 6/30/2010
+- DOMESTIC_MIG_2011
+  - Net domestic migration in period 7/1/2010 to 6/30/2011
+- DOMESTIC_MIG_2012
+  - Net domestic migration in period 7/1/2011 to 6/30/2012
+- DOMESTIC_MIG_2013
+  - Net domestic migration in period 7/1/2012 to 6/30/2013
+- DOMESTIC_MIG_2014
+  - Net domestic migration in period 7/1/2013 to 6/30/2014
+- DOMESTIC_MIG_2015
+  - Net domestic migration in period 7/1/2014 to 6/30/2015
+- NET_MIG_2010
+  - Net migration in period 4/1/2010 to 6/30/2010
+- NET_MIG_2011
+  - Net migration in period 7/1/2010 to 6/30/2011
+- NET_MIG_2012
+  - Net migration in period 7/1/2011 to 6/30/2012
+- NET_MIG_2013
+  - Net migration in period 7/1/2012 to 6/30/2013
+- NET_MIG_2014
+  - Net migration in period 7/1/2013 to 6/30/2014
+- NET_MIG_2015
+  - Net migration in period 7/1/2014 to 6/30/2015
+- RESIDUAL_2010
+  - Residual for period 4/1/2010 to 6/30/2010
+- RESIDUAL_2011
+  - Residual for period 7/1/2010 to 6/30/2011
+- RESIDUAL_2012
+  - Residual for period 7/1/2011 to 6/30/2012
+- RESIDUAL_2013
+  - Residual for period 7/1/2012 to 6/30/2013
+- RESIDUAL_2014
+  - Residual for period 7/1/2013 to 6/30/2014
+- RESIDUAL_2015
+  - Residual for period 7/1/2014 to 6/30/2015
+- GQ_ESTIMATES_BASE_2010
+  - 4/1/2010 Group Quarters total population estimates base
+- GQ_ESTIMATES_2010
+  - 7/1/2010 Group Quarters total population estimate
+- GQ_ESTIMATES_2011
+  - 7/1/2011 Group Quarters total population estimate
+- GQ_ESTIMATES_2012
+  - 7/1/2012 Group Quarters total population estimate
+- GQ_ESTIMATES_2013
+  - 7/1/2013 Group Quarters total population estimate
+- GQ_ESTIMATES_2014
+  - 7/1/2014 Group Quarters total population estimate
+- GQ_ESTIMATES_2015
+  - 7/1/2015 Group Quarters total population estimate
+- R_birth_2011
+  - Birth rate in period 7/1/2010 to 6/30/2011
+- R_birth_2012
+  - Birth rate in period 7/1/2011 to 6/30/2012
+- R_birth_2013
+  - Birth rate in period 7/1/2012 to 6/30/2013
+- R_birth_2014
+  - Birth rate in period 7/1/2013 to 6/30/2014
+- R_birth_2015
+  - Birth rate in period 7/1/2014 to 6/30/2015
+- R_death_2011
+  - Death rate in period 7/1/2010 to 6/30/2011
+- R_death_2012
+  - Death rate in period 7/1/2011 to 6/30/2012
+- R_death_2013
+  - Death rate in period 7/1/2012 to 6/30/2013
+- R_death_2014
+  - Death rate in period 7/1/2013 to 6/30/2014
+- R_death_2015
+  - Death rate in period 7/1/2014 to 6/30/2015
+- R_NATURAL_INC_2011
+  - Natural increase rate in period 7/1/2010 to 6/30/2011
+- R_NATURAL_INC_2012
+  - Natural increase rate in period 7/1/2011 to 6/30/2012
+- R_NATURAL_INC_2013
+  - Natural increase rate in period 7/1/2012 to 6/30/2013
+- R_NATURAL_INC_2014
+  - Natural increase rate in period 7/1/2013 to 6/30/2014
+- R_NATURAL_INC_2015
+  - Natural increase rate in period 7/1/2014 to 6/30/2015
+- R_INTERNATIONAL_MIG_2011
+  - Net international migration rate in period 7/1/2010 to 6/30/2011
+- R_INTERNATIONAL_MIG_2012
+  - Net international migration rate in period 7/1/2011 to 6/30/2012
+- R_INTERNATIONAL_MIG_2013
+  - Net international migration rate in period 7/1/2012 to 6/30/2013
+- R_INTERNATIONAL_MIG_2014
+  - Net international migration rate in period 7/1/2013 to 6/30/2014
+- R_INTERNATIONAL_MIG_2015
+  - Net international migration rate in period 7/1/2014 to 6/30/2015
+- R_DOMESTIC_MIG_2011
+  - Net domestic migration rate in period 7/1/2010 to 6/30/2011
+- R_DOMESTIC_MIG_2012
+  - Net domestic migration rate in period 7/1/2011 to 6/30/2012
+- R_DOMESTIC_MIG_2013
+  - Net domestic migration rate in period 7/1/2012 to 6/30/2013
+- R_DOMESTIC_MIG_2014
+  - Net domestic migration rate in period 7/1/2013 to 6/30/2014
+- R_DOMESTIC_MIG_2015
+  - Net domestic migration rate in period 7/1/2014 to 6/30/2015
+- R_NET_MIG_2011
+  - Net migration rate in period 7/1/2010 to 6/30/2011
+- R_NET_MIG_2012
+  - Net migration rate in period 7/1/2011 to 6/30/2012
+- R_NET_MIG_2013
+  - Net migration rate in period 7/1/2012 to 6/30/2013
+- R_NET_MIG_2014
+  - Net migration rate in period 7/1/2013 to 6/30/2014
+- R_NET_MIG_2015
+  - Net migration rate in period 7/1/2014 to 6/30/2015
